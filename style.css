@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "un";
+  src: url(undertale-normal.otf);
+}
+@font-face {
+  font-family: "ro";
+  src: url(roblox-regular.ttf);
+}
+@font-face {
+  font-family: "ne";
+  src: url(netflix-normal.ttf);
+}
+@font-face {
+  font-family: "ga";
+  src: url(game-of-thrones-normal.ttf);
+}
+@font-face {
+  font-family: "ma";
+  src: url(marvel-normal.ttf);
+}
+@font-face {
+  font-family: "su";
+  src: url(superman-regular.ttf);
+}
+h1 {
+  font-family: "un";
+}
+h2 {
+  font-family: "ro";
+}
+h3 {
+  font-family: "ne";
+}
+h4 {
+  font-family: "ga";
+}
+h5 {
+  font-family: "ma";
+}
+h6 {
+  font-family: "su";
+}
